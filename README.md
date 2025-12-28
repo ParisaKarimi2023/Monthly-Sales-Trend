@@ -14,6 +14,6 @@ Practice real-world data visualization
 ------------------------------
 
 # Project Libararies
-Pandas (data handling)
-Matplotlib (data visualization)
+Pandas (data handling),
+Matplotlib (data visualization),
 CSV dataset
