@@ -17,7 +17,3 @@ Practice real-world data visualization
 Pandas (data handling)
 Matplotlib (data visualization)
 CSV dataset
-
-------------------
-
-You can see [this Demo](https://github.com/ParisaKarimi2023/Monthly-Sales-Trend.git) as online
