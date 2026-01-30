@@ -1,6 +1,6 @@
 # Project Overview
 This project visualizes sales data to analyze trends, monthly performance, and category-wise distribution.
-It uses Python and Matplotlib to convert raw data into meaningful visual insights.
+It uses Python and Matplotlib to convert raw data into meaningful visual insights .
 
 -----------
 
